@@ -41,4 +41,4 @@ function Zodiac(yaer){
           }
 }
 
-Zodiac(1900)
+Zodiac(1900);
